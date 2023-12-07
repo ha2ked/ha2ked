@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ha2ked
-- 👀 I’m interested in ... Development 
-- 🌱 I’m currently learning ...C++
-- 💞️ I’m looking to collaborate on ...One Click root application s
-- 📫 How to reach me ... mr.esb.paul@gmail.com
+@ha2ked to find me 
+feds.lol/ha2ked
 
 <!---
 PJR27/PJR27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
