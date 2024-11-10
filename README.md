@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="center">de4uth<br><br>I AM NOT A DEVELOPER<br>I AM NOT AN EXPERT<br><br>If you need anything you will find me on discord</p>
+<p align="center">de4uth<br><br>If you need anything you will find me on discord</p>
 
 ###
 
